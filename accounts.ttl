@@ -7,3 +7,4 @@
 <http://kurzum.net/webid.ttl#this> foaf:account databus:kurzum .
 <https://vehnem.github.io/webid.ttl#this> foaf:account databus:marvin .
 <https://webid.dbpedia.org/webid.ttl#this> foaf:account databus:dbpedia .
+<https://m1ci.github.io/webid.ttl#this> foaf:account databus:dbpedia .
