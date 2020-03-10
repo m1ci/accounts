@@ -17,4 +17,4 @@
 <http://www.openlinksw.com/data/turtle/openlink.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/openlink> .
 <https://phil294.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/phil294> .
 <https://ragnarok85.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/julio-n> .
-<http://mdw.dojchinovski.mk/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/m1ci> .
+<https://mdw.dojchinovski.mk/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/m1ci> .
